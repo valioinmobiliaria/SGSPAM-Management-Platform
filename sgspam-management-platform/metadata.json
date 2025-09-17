@@ -1,0 +1,5 @@
+{
+  "name": "SGSPAM Management Platform",
+  "description": "A web application for companies to implement, document, and monitor the SGSPAM (Safety Management System for the Prevention of Major Accidents) in compliance with Colombian Resolution 5492 of 2024. The app features the 16 pre-configured SGSPAM elements, company-specific customization, web forms with PDF export, and an audit/monitoring module.",
+  "requestFramePermissions": []
+}
